@@ -1,0 +1,6 @@
+Performing Google Search using Python code
+Let’s say you are working on a project that needs to do web scraping but you don’t know websites on which scraping is to be performed beforehand instead you are required to perform google search and then proceed according to google search result to few websites. In that case you need google search result for your different queries.
+
+One way of achieving this is using request and beautiful soup which has been discussed here in Implementing Web Scraping in Python with BeautifulSoup.
+Instead of putting so much effort for a trivial task google package has been made. Its almost a one liner solution to find links of all the google search result directly.
+Using python package google we can get result of google search from python script. We can get link of first n search results.
